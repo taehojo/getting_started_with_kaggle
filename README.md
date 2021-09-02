@@ -4,7 +4,7 @@
 
 
 
-[<img src="./book/book.jpg" alt="Title" style="zoom:25%;" />](http://www.yes24.com/Product/Goods/103526120)
+[<img src="./book/book.jpg" alt="Title"  />](http://www.yes24.com/Product/Goods/103526120)
 
 [예스24](http://www.yes24.com/Product/Goods/103526120), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216726)
 
