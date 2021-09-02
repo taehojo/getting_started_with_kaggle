@@ -1,8 +1,12 @@
 ### < 쉽게 시작하는 캐글 데이터 분석> 
 
-<img src="C:\Users\taehj\OneDrive\Desktop\캐글번역\getting_started_with_kaggle\book\book.jpg" style="zoom: 25%;" />
-
 **- 길벗 (시노다 히로유키 저/조태호 역)의 소스코드 모음입니다.** 
+
+
+
+[<img src="./book/book.jpg" alt="Title" style="zoom:25%;" />](http://www.yes24.com/Product/Goods/103526120)
+
+[예스24](http://www.yes24.com/Product/Goods/103526120), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216726)
 
 
 
