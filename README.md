@@ -2,10 +2,6 @@
 
 **- 길벗 (시노다 히로유키 저/조태호 역)의 소스코드 모음입니다.** 
 
-
-
-[<img src="./book/book.jpg" alt="Title"  />](http://www.yes24.com/Product/Goods/103526120)
-
 [예스24](http://www.yes24.com/Product/Goods/103526120), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216726)
 
 
