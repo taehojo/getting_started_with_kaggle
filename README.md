@@ -2,7 +2,7 @@
 
 **- 길벗 (시노다 히로유키 저/ 조태호 역)의 소스코드 모음입니다.** 
 
-[예스24](http://www.yes24.com/Product/Goods/103526120), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216726), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278905337)
+[예스24](http://www.yes24.com/Product/Goods/103526120), [교보문고](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216726), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=278905337), [인터파크](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=353732246&pis1=book&pis2=product)
 
 
 -----------------
@@ -14,10 +14,9 @@
 3. 데이터의 시각화
 4. 데이터 전처리와 특징값 생성
 5. 머신 러닝 모델의 실행
+[보충학습 1] 타이타닉에는 어떤 사람이 승선하고 있었는가
+[보충학습 2] 특정 클러스터에 주목해 보기
 
-   [보충학습 1] 타이타닉에는 어떤 사람이 승선하고 있었는가
-   [보충학습 2] 특정 클러스터에 주목해 보기
-   
 
 **캐글 경진 대회 도전 2 : 주택 가격 예측하기**
 
