@@ -1,5 +1,7 @@
 ### <쉽게 시작하는 캐글 데이터 분석> 
-[정오표](https://taehojo.github.io/book/kaggle-092322.pdf), [책](http://www.yes24.com/Product/Goods/103526120)
+
+[정오표](https://taehojo.github.io/book/kaggle-092322.pdf)
+
 
 **- 길벗 (시노다 히로유키 저/ 조태호 역)의 소스코드 모음입니다.** 
 
